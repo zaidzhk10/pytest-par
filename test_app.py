@@ -1,5 +1,4 @@
 from app import hcf_lcm
-import pytest
 def test_hcf_lcm():
     expected_output = {
         "Hcf": 10,
